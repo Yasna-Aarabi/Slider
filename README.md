@@ -10,4 +10,4 @@ The slider displays multiple images that **expand smoothly on hover**, creating 
 - Flexbox layout for smooth responsiveness  
 - Hover effect that enlarges images dynamically
 
-🔗 **Demo:** (https://github.com/Yasna-Aarabi/Slider)
+🔗 **Demo:** (https://github.com/Yasna-Aarabi.io/Slider)
