@@ -5,7 +5,7 @@ The slider displays multiple images that **expand smoothly on hover**, creating 
 
 ![Slider Screenshot](https://github.com/Yasna-Aarabi/Slider/blob/main/slider.png?raw=true)  
 
-🔗 **Demo:** [View Live Demo](https://your-demo-link.com)
+🔗 **Demo:** [View Live Demo](https://yasna-aarabi.github.io/slider/.com)
 
 ## Features
 - Pure HTML & CSS (no JavaScript)  
