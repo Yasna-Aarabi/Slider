@@ -12,8 +12,3 @@ The slider displays multiple images that **expand smoothly on hover**, creating 
 - Flexbox layout for smooth responsiveness  
 - Hover effect that enlarges images dynamically
 
-## How to Use
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yasna-aarabi/slider.git
-
