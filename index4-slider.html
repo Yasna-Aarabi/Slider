@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carpet</title>
+    <style>
+        *,
+        *::before,
+        *::after {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: rgb(10, 11, 58);
+            ;
+        }
+
+        .box {
+            width: 100%;
+            height: 100px;
+            background-color: rgb(10, 11, 58);
+            color: white;
+            font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .slider {
+            width: 100%;
+            height: 100vh;
+            display: flex;
+
+            >div {
+                width: 20px;
+                height: 100%;
+                flex-grow: 1;
+                border: 4px solid rgb(10, 11, 58);
+                transition: 1s;
+                background-size: auto 100%;
+
+                &:hover {
+                    flex-grow: 2.5;
+                }
+
+                &:nth-last-of-type(1) {
+                    background-image: url(../assets/image/ccc.jpg);
+                }
+
+                &:nth-last-of-type(2) {
+                    background-image: url(../assets/image/fff.jpg);
+                }
+
+                &:nth-last-of-type(3) {
+                    background-image: url(../assets/image/hhh.jpg);
+                }
+
+                &:nth-last-of-type(4) {
+                    background-image: url(../assets/image/bbb.jpg);
+                }
+
+                &:nth-last-of-type(5) {
+                    background-image: url(../assets/image/ddd.jpg);
+                }
+
+                &:nth-last-of-type(6) {
+                    background-image: url(../assets/image/eee.jpg);
+                }
+
+                &:nth-last-of-type(7) {
+                    background-image: url(../assets/image/aaa.jpg);
+                }
+
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <h1 class="box">Persian Carpet</h1>
+    <div class="slider">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+
+    <!-- <div>
+        <div class="about"></div>
+        <img src="../assets/image/yasna.png" alt="">
+        <div class="yasna">Yasna Aarabi</div>
+        <div class="mail"><a href="mailto:yasnaaarabi@gmail.com">Email</a></div>
+        <div class="instagram"><a href="https://www.instagram.com/yasna.dev">instagram</a></div>
+        <div class="linkedin"><a href="https://www.linkedin.com/in/zahra-aarabi-3999b1242">Email</a>linkedin</div>
+
+    </div> -->
+</body>
+
+</html>
