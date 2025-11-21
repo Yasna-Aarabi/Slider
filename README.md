@@ -1,2 +1,19 @@
-# Slider
-This is a simple flex slider built with HTML and CSS. The slider displays multiple images that expand smoothly on hover, creating a dynamic visual effect.
+# Flex Image Slider
+
+This is a **simple flex image slider** built with HTML and CSS.  
+The slider displays multiple images that **expand smoothly on hover**, creating a dynamic visual effect.
+
+![Slider Screenshot](https://github.com/Yasna-Aarabi/Slider/blob/main/slider.png?raw=true)  
+
+🔗 **Demo:** [View Live Demo](https://your-demo-link.com)
+
+## Features
+- Pure HTML & CSS (no JavaScript)  
+- Flexbox layout for smooth responsiveness  
+- Hover effect that enlarges images dynamically
+
+## How to Use
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/yasna-aarabi/slider.git
+
